@@ -1,6 +1,8 @@
 # Portifólio
 Amostra de algumas das artes que criei com o passar dos anos<br>
 A maioria delas não está finalizada, porém, acho que mostra bastante do que sei fazer com pixel art e pintura digital!<br>
+Infelizmente, eu não tenho mais as files do unity e do godot nos quais usei essas artes :(<br>
+De qualquer forma, tenho muito mais experiência na parte artistica de jogos! Mas quero aprender a programação também.<br>
 ***
 Esse solzinho criei para fazer um plano de fundo animado, em um dos projetos que comecei faz muuuito tempo! <br><br>
 <img src="assets/sun1.gif" width="100"><br>
